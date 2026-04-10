@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "AST Lean Public Subset"
+message: "If you use this repository, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: "Kumar"
+    given-names: "Harish"
+repository-code: "https://github.com/<your-org-or-user>/ast-lean-public"
+license: "MIT"
+abstract: >-
+  Canonical Lean formalization subset for Admissible Structure Theory (AST),
+  organized by semantic levels spanning structural foundations, interpretation
+  bridges, physics identifications, and applications.
+keywords:
+  - Lean
+  - mathematical physics
+  - formalization
+  - holography
+  - inflation
+  - quantum foundations
+  - gravity
+version: "0.1.0"
