@@ -3,6 +3,14 @@
 This repository is the public Lean package for the levelized Admissible
 Structure Theory (AST) codebase.
 
+## What this establishes
+
+This public subset currently contains 215 theorem/lemma declarations and zero
+`sorry`s in the canonical `AST_levels` package. It is the formal code reference
+for the AST paper series: structural foundations, interpretation results,
+physics identifications, and application-level consequences are separated by
+level so individual claims can be cited cleanly.
+
 ## Package layout
 
 - `AST_levels/Foundation/`
@@ -29,9 +37,10 @@ lake build AST_levels
 
 ## Repository Metadata
 
-- License: see [LICENSE](/Users/harishkumar/KagazKala/VSCode/ast-lean/ast-public/LICENSE)
-- Citation metadata: see [CITATION.cff](/Users/harishkumar/KagazKala/VSCode/ast-lean/ast-public/CITATION.cff)
-- Theorem/status overview: see [THEOREM_STATUS.md](/Users/harishkumar/KagazKala/VSCode/ast-lean/ast-public/THEOREM_STATUS.md)
+- License: see [LICENSE](LICENSE)
+- Citation metadata: see [CITATION.cff](CITATION.cff)
+- Theorem/status overview: see [THEOREM_STATUS.md](THEOREM_STATUS.md)
+- Geometry-route overview: see [GEOMETRY_CHAIN_STATUS.md](GEOMETRY_CHAIN_STATUS.md)
 
 ## Scope
 

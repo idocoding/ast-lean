@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: "Kumar"
     given-names: "Harish"
-repository-code: "https://github.com/<your-org-or-user>/ast-lean-public"
+repository-code: "https://github.com/idocoding/ast-lean"
 license: "MIT"
 abstract: >-
   Canonical Lean formalization subset for Admissible Structure Theory (AST),
